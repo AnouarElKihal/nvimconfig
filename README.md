@@ -1,1 +1,2 @@
+# NVIMCONFIG
 Neovim Configuration Folder
