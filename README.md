@@ -1,2 +1,2 @@
 # NVIMCONFIG
-NeoVim Configuration Folder
+Neovim Configuration Folder
