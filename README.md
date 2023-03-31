@@ -1,2 +1,2 @@
 # NVIMCONFIG
-This is my personal neovim configuration folder
+This is my personal neovim configuration folder.
