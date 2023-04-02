@@ -1,3 +1,3 @@
 # NVIMCONFIG
-This is my personal neovim configuration folder.
+This is my personal neovim configuration folder.<br>
 I want to thank @ChristianChiarulli for his setup and videos that helped me creating my nvim setup.
